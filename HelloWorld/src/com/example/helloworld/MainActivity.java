@@ -9,6 +9,7 @@ import android.widget.TextView;
 public class MainActivity extends Activity {	//에러가 났다. android.app.Activity를 추가하라고. API 11, current min API is 8 이런 거 나왔음.
 
 	
+	
 	TextView tv1 = null;
 	TextView tv2 = null;
 	
